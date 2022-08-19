@@ -15,6 +15,10 @@ Em cada Lista, apenas um conjunto de assuntos é permitido na resolução, a fim
 Além dos assuntos das Listas 00 e 01:
 - Estruturas de repetição
 
+## Lista 03
+Além dos assuntos da Lista 02:
+- Listas (Arrays)
+
 # [EN] Introduction to Programming course (IP course)
 In this repository, you can check all code developed throughout the IP course, from Computer Science’s 1st semester at CIn-UFPE.
 
@@ -29,3 +33,7 @@ In each List, only a couple of contents are permitted in the resolution process,
 ## List 02
 Includes Lists 00 and 01 contents’, plus:
 - Loops
+
+## List 03
+Includes List 02’s contents, plus:
+- Arrays
