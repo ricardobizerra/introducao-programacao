@@ -19,6 +19,10 @@ Além dos assuntos das Listas 00 e 01:
 Além dos assuntos da Lista 02:
 - Listas (Arrays)
 
+## Lista 04
+Além dos assuntos da Lista 03:
+- Funções
+
 # [EN] Introduction to Programming course (IP course)
 In this repository, you can check all code developed throughout the IP course, from Computer Science’s 1st semester at CIn-UFPE.
 
@@ -37,3 +41,7 @@ Includes Lists 00 and 01 contents’, plus:
 ## List 03
 Includes List 02’s contents, plus:
 - Arrays
+
+## List 04
+Includes List 03's contents, plus:
+- Functions
