@@ -23,6 +23,10 @@ Além dos assuntos da Lista 02:
 Além dos assuntos da Lista 03:
 - Funções
 
+## Lista 05
+Além dos assuntos da Lista 04:
+- Recursão
+
 # [EN] Introduction to Programming course (IP course)
 In this repository, you can check all code developed throughout the IP course, from Computer Science’s 1st semester at CIn-UFPE.
 
@@ -45,3 +49,7 @@ Includes List 02’s contents, plus:
 ## List 04
 Includes List 03's contents, plus:
 - Functions
+
+## List 05
+Includes List 04's contents, plus:
+- Recursion
