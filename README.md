@@ -27,6 +27,11 @@ Além dos assuntos da Lista 03:
 Além dos assuntos da Lista 04:
 - Recursão
 
+## Lista 06
+Além dos assuntos da Lista 05:
+- Tuplas
+- Dicionários
+
 # [EN] Introduction to Programming course (IP course)
 In this repository, you can check all code developed throughout the IP course, from Computer Science’s 1st semester at CIn-UFPE.
 
@@ -47,9 +52,14 @@ Includes List 02’s contents, plus:
 - Arrays
 
 ## List 04
-Includes List 03's contents, plus:
+Includes List 03’s contents, plus:
 - Functions
 
 ## List 05
-Includes List 04's contents, plus:
+Includes List 04’s contents, plus:
 - Recursion
+
+## List 06
+Includes List 05’s contents, plus:
+- Tuples
+- Dictionaries
